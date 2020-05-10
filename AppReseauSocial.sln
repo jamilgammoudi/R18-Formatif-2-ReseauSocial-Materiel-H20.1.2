@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppReseauSocial", "AppReseauSocial\AppReseauSocial.csproj", "{90FF2209-2D56-41F5-8BBF-347C3731D20D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90FF2209-2D56-41F5-8BBF-347C3731D20D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90FF2209-2D56-41F5-8BBF-347C3731D20D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90FF2209-2D56-41F5-8BBF-347C3731D20D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90FF2209-2D56-41F5-8BBF-347C3731D20D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83528FA7-E83B-4A73-960F-BFFC82BCF697}
+	EndGlobalSection
+EndGlobal
